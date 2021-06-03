@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full answer to the Second defense of the exposition of the doctrin of the Church of England in a letter to the defender.</title>
+            <author>Johnston, Joseph, d. 1723.</author>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46983</idno><idno type="EEBO-CITATION">17152665</idno>
+  <idno type="VID">105960</idno>
+  <idno type="EEBO-PROQUEST">2240874807</idno>
+  
+            <idno type="STC">Wing J868</idno>
+            <idno type="STC">ESTC R37935</idno>
+            <idno type="OCLC">17152665</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1617:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full answer to the Second defense of the exposition of the doctrin of the Church of England in a letter to the defender.</title>
+                  <author>Johnston, Joseph, d. 1723.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ... and are to be sold at his printing-house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Attributed to Johnston by Wing and NUC pre-1956 imprints.</note>
+                  <note>The "Second defense" was written by William Wake--cf. NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wake, William, 1657-1737. --  Second defense of the exposition of the doctrine of the Church of England.</term>
+               <term type="corporate_name">Church of England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:105960:1"/>
+            <head>A Full ANSWER TO THE Second Defence Of the Exposition of the Doctrin of the <hi>CHURCH</hi> of <hi>ENGLAND;</hi> IN A Letter to the Defender.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I first say your Book, I was presently in<g ref="char:EOLhyphen"/>duced to judg either that my Printer had be<g ref="char:EOLhyphen"/>tray'd my Sheets in the Press, or that what you say you have some reason to believe of <hi>mine,</hi> was more true concerning <hi>yours,</hi> that you were not the only person concerned in this <hi>second Defence:</hi> But when I came to per<g ref="char:EOLhyphen"/>use it, I must confess I was presently convin<g ref="char:EOLhyphen"/>ced that I had made a rash judgment, and do therefore here re<g ref="char:EOLhyphen"/>tract it, and acknowledg that I believe you are the only Author, and that you did not get my Book till about the time it was made public. But this does not hinder but that another conjecture of mine may be true; that not only several materials were formerly gathered, by your self or others, for this Building, (tho' the
+<pb n="2" facs="tcp:105960:2"/>over-hasty joyning them together has not contributed to the so<g ref="char:EOLhyphen"/>lidity of the Work) but that some parts of it also might have been written by prevention, or brought in from some other Dis<g ref="char:EOLhyphen"/>courses, they are so little to the purpose.</p>
+            <p>However, <hi>Sir,</hi> if you assure me to the contrary, I will believe you so far as to retract this also, and allow that the whole was written not only by <hi>your self,</hi> but with <hi>that speed</hi> which your Party takes care to boast of.</p>
+            <p>And now that the Work is out, an Answer is expected from me; but either <hi>You,</hi> or <hi>your Friends</hi> for you, think that a years time will be little enough for the Bishop of <hi>Condom</hi> and my self to put words together. Indeed if I would take notice of those who only put words together, and trouble my self to answer all your bold Assertions, unproved Conjectures, and (I must still use the word) <hi>unjust Calumnies,</hi> a years time might easily be cast away in such trinings.</p>
+            <p>But, <hi>Sir,</hi> I here declare once for all, that as I intend to pass over all those things which bear not the face of an Argument, tho' perhaps they may be witty conceits; so am I resolved not to let any of your pretendeed proofs escape, or any thing that looks like a solid Answer pass unsatisfied.</p>
+            <p>Impursuit of this intention, I come to your TITLE-PAGE;</p>
+            <p>Which tells us, indeed, that the Book is <hi>A Defence of the Ex<g ref="char:EOLhyphen"/>position against the new Exceptions of the Vindicator:</hi> But they who peruse the Work it self, will find that it ought rather to be called <hi>A free Confession of the matter of Fact in all those Exceptions.</hi> From thence I pass over your <hi>Dedication,</hi> because it is only words put together, without any one Argument, and come to your PREFACE.</p>
+            <p>This seems to have been composed by advance, it takes so little notice of the necessary distinctions I have laid down in my <hi>Reply.</hi> You usher it in with a complaint of an ancient Father a<g ref="char:EOLhyphen"/>gainst a Heathen Philosopher, and take the liberty to apply it to us; but they who consider things aright, will find the Garment sits more closely upon others, and therefore does more proper<g ref="char:EOLhyphen"/>ly belong to them.</p>
+            <pb n="3" facs="tcp:105960:2"/>
+            <p> This Calumny is backed with an <hi>Historical Vindication,</hi> as you call it, of the distinction of <hi>Old</hi> and <hi>New Popery.</hi>
+               <note place="margin">Page iii.</note> Here I expect<g ref="char:EOLhyphen"/>ed some great performance, which you took so much care to pre<g ref="char:EOLhyphen"/>admonish your Readers of in the Title-page and Table. But when I came to examin it, I found nothing in it to the purpose. You have amassed indeed some stories of New Converts, who had been deceived by the like <hi>Misrepresentations</hi> which we so just<g ref="char:EOLhyphen"/>ly complain of; And other Hypocrits, (if what you relate of them be just) who continued to think them true. And if this be the way of giving Historical Accounts, you had best set up next time for an <hi>Historiographer,</hi> which will become you better than a <hi>Controvertist;</hi> you have Friends enough to furnish you with materials, but for your credit sake examin the truth of them, and apply them to some better purpose. <hi>First,</hi> you tell us that Monsieur <hi>Brueys,</hi> who acknowledg'd himself to have received a great part, if not his whole satisfaction, from M. <hi>de Meaux Exposition,</hi> exhorted the Protestants to return from their odious Separation, because <hi>Reason, Charity, the Glory of God, the peace of the Church, the good of the State, the interest of their Salvation required that at this time they should return from that odi<g ref="char:EOLhyphen"/>ous separation, by putting matters into the <hi>same state in which they were before;</hi>
+               </hi> and that the way was facilitated because it was to be <hi>sincerely acknowledged the Doctrin and Worship of the Roman Church was never so <hi>clearly</hi>
+               </hi> (not <hi>cleanly,</hi>
+               <note place="margin">
+                  <hi>Nettement</hi> Un discours net; <hi>that is,</hi> A clear and intelli<g ref="char:EOLhyphen"/>gible Dis<g ref="char:EOLhyphen"/>course.</note> as you designedly render it) <hi>expounded as in our days;</hi> and that <hi>he could not but think that if their Forefathers had believed things to be as <hi>in effect they were,</hi> and are now proposed, they would never have separated from its Communi<g ref="char:EOLhyphen"/>on.</hi> Now, for my part, I stand in need of your spectacles, <hi>Sir,</hi> to see how this proves that there was a <hi>New</hi> and <hi>Old Popery</hi> any where but in the conceit of our <hi>Adversaries,</hi> their <hi>Forefathers</hi> as he calls them; especially seeing he invites them to put things in<g ref="char:EOLhyphen"/>to <hi>a state in which they were before,</hi> and tells them that <hi>in reality they are what they are represented.</hi> But, it seems, to praise the Bishop of <hi>Condom</hi> for expounding our Doctrins and Practices more <hi>clearly</hi> and <hi>intelligibly</hi> than others had done before him, is with our new Masters of Expression to confess that he introduced a <hi>New Popery.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Ha.<note place="margin">Pag v.</note>
+               <hi>Crasset</hi> is again brought upon the Stage for de<g ref="char:EOLhyphen"/>fending what he himself does not acknowledg to be an Article
+<pb n="4" facs="tcp:105960:3"/>of our Faith, and therefore belongs not to what you call <hi>Popery</hi> at all. If therefore you took from thence an occasion to make that odious distinction of <hi>New and Old Popery,</hi> it was without any just reason, and you ought to recall it.</p>
+            <p>
+               <hi>Thirdly,</hi>
+               <note place="margin">Page vi.</note> you subjoin a Letter written by Monsieur <hi>Ranchin,</hi> an <hi>eminent Convert,</hi> as you call him, upon his change, who tells you of a Faith practised by the <hi>People and the Tartuffs,</hi> different from that of the Bishop of <hi>Condom's Exposition</hi> and the <hi>Wholsom Ad<g ref="char:EOLhyphen"/>vice:</hi> But you have shewn (if what you affirm from the Au<g ref="char:EOLhyphen"/>thor's Dialogue be true) of what credit such a persons Authori<g ref="char:EOLhyphen"/>ty is, who weighed things so little, as to sell his Religion for Mony and Preferments.</p>
+            <p>
+               <hi>Fourthly,</hi>
+               <note place="margin">Page ix.</note> you give us such another account of one Monsieur <hi>Pawlet,</hi> a Minister, who made his <hi>Conscience</hi> comply to his <hi>In<g ref="char:EOLhyphen"/>terest;</hi> a fit man to be brought in as one of your Witnesses for such an odious Accusation.</p>
+            <p>
+               <hi>Fifthly,</hi> After this the Inhabitants of <hi>Montauban</hi> are called, who acknowledged that <hi>the Abuses which were imputed to the Church, were not sufficient to oblige their Ancestors to separate from it;</hi> but yet desired leave <hi>to make Remonstrances to the Clergy to purge the Roman Church of many Abuses;</hi> which was granted them. This shews, indeed, that <hi>They</hi> were more moderate than <hi>You,</hi> but is not a very convincing proof that there was truly an <hi>Old</hi> and <hi>New Popery,</hi> excepting in their Imaginations.</p>
+            <p>
+               <hi>Sixthly,</hi> Mousieur <hi>Imbert</hi>'s Case is again brought up, both as an Instance of this <hi>New</hi> and <hi>Old Popery,</hi> and to shew that you did neither <hi>falsifie</hi> nor <hi>calumniate</hi> when you translated these words;<note place="margin">Page ix.</note>
+               <hi>Ecce lignum Crucis, in quo pependit salus mundi; venite Adoremus: Behold the wood of the Cross; come let us adore <hi>It:</hi>
+               </hi> Instead of, <hi>Behold the wood of the Cross, on which the Savior of the World did hang; come let us adore.</hi> As for Monsieur <hi>Imbert</hi>'s Case, which you give us only from his own <hi>Factum,</hi> (upon which you know a Sentence cannot be pronounced till his adverse party have put in their Reply) I neither know it, nor am I concern'd to enquire into it. But the severe Reflections which you make, and that justly enough, against the proceeding of his <hi>Diocesan,</hi> and the Crimes he must be guilty of, if <hi>Imbert</hi> said the whole Truth, and nothing but the Truth, will make unbyassed persons think that this <hi>Imbert</hi> (who was more cautious than to accuse
+<pb n="5" facs="tcp:105960:3"/>himself in his own Bill) was not just in the delivery of the mat<g ref="char:EOLhyphen"/>ter of Fact, nor faithful when he said he was accused only for conforming to the Bishop of <hi>Condom's Exposition.</hi> The Bishop tells us of Extravagances committed in the Church, and I suppose, if it were worth while, he could prove them to you. And as to the false Translation, it is so manifest, that I need not make any more words of it; and if the Curate cry'd out, as <hi>Imbert</hi> accuses him, <hi>the wood, the wood,</hi> he was as much in the wrong as your self.</p>
+            <p>
+               <hi>Lastly,</hi> you bring in the Titles of several Sections in the <hi>Wholsom Advices of the Blessed Virgin to her indiscreet Worshippers.</hi>
+               <note place="margin">Page xi.</note> Now indeed, <hi>Sir,</hi> if any of those Practices against which he gives those Admonitions had been established by the Church in the foregoing Ages as Articles of her Faith, and now only condemn'd by us, you would have had some reason to make your distinction of <hi>New</hi> and <hi>Old Popery,</hi> but not otherwise. This you foresaw, and therefore wisely prevent my telling you, that <hi>if any of those Extravagances have been practised, the Church is not to answer for them;</hi> seeing (I will add) she has always taken care to instruct them better. And as for your very scandalous insinuation (par<g ref="char:EOLhyphen"/>don me, <hi>Sir,</hi> you know 'tis such) that <hi>it was no longer ago than in the year</hi> 1679, <hi>that it was thought a Crime to be condemned not only by the Pope and the King, but by the Learned of all Nations, a Crime worthy of Banishment in this Life, and of Damnation in the other, but only to advise them better.</hi> You have given us in another place, it may be thro' forgetfulness, a short Answer to it; <hi>They who op<g ref="char:EOLhyphen"/>pose that Book of</hi> Wholsom Advice,<note place="margin">2 Def. p. 24.</note>
+               <hi>are not therefore Enemies to every one of those particulars.</hi>
+            </p>
+            <p>Thus much for the first part of your Preface.</p>
+            <p>The second is an Enquiry,<note place="margin">Pref. p. xii.</note>
+               <hi>What the thing called the Churches sense is, and how we may come to the knowledge of it?</hi> To pass by your ushering this Question in with the foregoing false and mali<g ref="char:EOLhyphen"/>cious insinuation, which you your self knew to be so, as I have prov'd; I shall, tho' it has been done fully in my <hi>Reply,</hi> and else<g ref="char:EOLhyphen"/>where, yet condescend once more to answer both the Questions.</p>
+            <p>
+               <hi>First,</hi> the <hi>Churches sense</hi> in our case is that which she delivers as <hi>a Doctrin of Faith,</hi> or <hi>a necessary Practice:</hi> I say, as a Doctrin of Faith, that is, a Doctrin deliver'd down by an uninterrupted Tradition from authoris'd Pastors to authoris'd Pastors; which whosoever renounces, is justly cut off from being a Member of
+<pb n="6" facs="tcp:105960:4"/>her Communion. I say also, <hi>necessary Practices,</hi> that is, such as she obliges all her Children to do, and condemns those that re<g ref="char:EOLhyphen"/>fuse, as Schismatics.</p>
+            <p>
+               <hi>Secondly,</hi> to know how you may come to the <hi>knowledg of this sence:</hi> I answer, by the voice of the Church, in her General and approved Councils; and by her univerfally practising such things as necessary.</p>
+            <p>Till therefore you can prove by the express words of a General approved Council, or by the Universal Practice of the Church, that what you term <hi>Old Popery,</hi> was deliver'd as a Doctrin of Faith, or a Practice necessary to Salvation; all you say will avail you nothing; for you bring only the private sentiments of men, which other Members of the same Church condemn; and so long as there is such a Dispute betwixt them whom she acknowledges to be her Children, and she does not determin it, any one may hold which side they please, as an Opinion; or suspend their Judgment:<note place="margin">Page xiii.</note> but neither side is truly what you ought to mean by <hi>Popery.</hi>
+            </p>
+            <p>Thus, <hi>Sir,</hi> unless you prove directly from our General and received Councils, that we require <hi>other aid and assistance</hi> from the Saints than their <hi>Prayers,</hi> or that which God shall permit or command them to give, as Ministring Spirits, you say nothing against Us, or the lawfulness of what We practise. Thus also, unless you can shew that a General Council positively declares that it is lawful to <hi>implore the aid of Monuments, or Sacred Reliques;</hi> if you affirm that we believe it, you are a <hi>Misrepresenter.</hi> But, <hi>Sir,</hi> all the little tricks you have will never prove this, nor will you, whil'st you continue to justifie your Crime, ever pass amongst men that examin things, for other than a <hi>false Translator</hi> of the words of the Council of <hi>Trent</hi> upon this point. The art you think to elude it by, because people go to these Sacred Monu<g ref="char:EOLhyphen"/>ments and Reliques, to receive Benefit, (and the <hi>Representer</hi> as you say acknowledges it) will not justifie your Translation, un<g ref="char:EOLhyphen"/>less you prove that when they come there they <hi>pray to them,</hi> (those Monuments or Reliques) instead of desiring the <hi>Saints,</hi> whose they are, to <hi>pray for them.</hi>
+            </p>
+            <p>Moreover, if you accuse us of paying <hi>Divine Worship</hi> to <hi>Stocks</hi> and <hi>Stones,</hi>
+               <note place="margin">Page xiv.</note> to <hi>Images</hi> and <hi>Crucifixes;</hi> unless you can shew us that some of our General apporved Councils have positively defined
+<pb n="7" facs="tcp:105960:4"/>this, or our Universal Practice necessarily establish it, you are still a <hi>Misrepresenter</hi> and a <hi>Calumniator</hi> too. But, <hi>Sir,</hi> tho' the Council of <hi>Trent</hi> affirm that <hi>due Honor and Veneration is to be given them,</hi> yet it does not follow that it is the Horor due to God which is there meant, tho' I am certainly inform'd this has been deliver'd in some Pulpits (I do not speak of <hi>yours,</hi> Sir,) to the scandal of those who examin'd the following words in that Council. And tho' Cardinal <hi>Capisucchi</hi> and others think that the Cross of Christ, as in its representative Nature, one with Him whom it represents, is to be worshiped with the same Worship as Christ himself; as the Garments of a King with the King, without any reflective distinction: yet seeing others of the same Communion reject this, and are not censur'd by the Church, it plainly follows that this is no necessary Doctrin of our Church. And therefore whoever calls this <hi>Old Popery,</hi> is a <hi>Misrepresenter,</hi> a <hi>Falsifier,</hi> and a <hi>Calumniator.</hi>
+            </p>
+            <p>What I have said in this case, is applicable to all others.<note place="margin">Pref. p. xviii.</note> And tho' you may think you have sufficiently prov'd your Assertion by affirming that <hi>as we ought not to judg of the Pagan Religion from the Impertinenoy of their Poets, or the specious Discourses of the Philoso<g ref="char:EOLhyphen"/>phers, but from the Worship that was practised by public Authority;</hi> so ought we not to judg of the <hi>Doctrins of the Church of Rome by the singular Notions of some private men, (tho' pretending to deliver nothing but the Churches sense) but by her Ʋniversal Practice.</hi> Yet, tho' I admit the Parallel, I am certain it will never make any thing for you, till you can shew that the Church does or did make use of Racks and Gibbets, and all sorts of Tortures, to oblige people to believe and practise those things which you call <hi>Old Popery,</hi> as the Heathens did to make them worship Idols, <hi>&amp;c.</hi> Or that she does allow such wicked Practices as correspond to your Author's Example of <hi>Killing and Robbing,</hi>
+               <note place="margin">Pag. xx.</note> and are as dangerous to the Church, as those are to a State. But you know, <hi>Sir,</hi> it is impossible to prove either of these; and every thing, I hope, that any one sancies to be ill, is not therefore to be reproved.</p>
+            <p>Thus much, <hi>Sir,</hi> to your Preface; now to your BOOK.</p>
+            <p>In <hi>It,</hi> after some few pages as an <hi>Introduction,</hi> you send <hi>an Address to the Bishop of Meaux:</hi> but seeing in the beginning of it you question either my <hi>abilities</hi> or my <hi>sincerity</hi> in delivering a
+<pb n="8" facs="tcp:105960:5"/>right interpretation of it; I shall refer that part to your self, and if you desire any Answer from him, be you your own Inter<g ref="char:EOLhyphen"/>preter, and then I hope there will be no mistakes.</p>
+            <p>Passing over therefore all the Letter, which concerns not <hi>me,</hi> nor the <hi>Doctrin of the Catholic Church</hi> which I am to vindicate, I come to your <hi>Second Section.</hi>
+            </p>
+            <p>In which I perceive nothing but <hi>Passion,</hi>
+               <note place="margin">Pag. 49.</note> and that to such a de<g ref="char:EOLhyphen"/>gree, that it has very much perverted your <hi>Judgment;</hi> for whil'st you pretend to vindicate your self from what you call <hi>false Impu<g ref="char:EOLhyphen"/>tations,</hi> you confess the Fact; and whil'st you accuse <hi>me</hi> of hor<g ref="char:EOLhyphen"/>rid Crimes, you with the same breath pronounce <hi>your self</hi> guity of them.</p>
+            <p>
+               <hi>First,</hi>
+               <note place="margin">In the Table</note> you affirm, that <hi>the Principles of many of the Casuists of the Roman Church do allow the defaming of an Adversary by such Ac<g ref="char:EOLhyphen"/>cusations as they know to be false.</hi> But this, <hi>Sir,</hi> as you here word it, is a false imputation.</p>
+            <p>
+               <hi>False,</hi> I say; for you have not brought <hi>one</hi> that allows it. You tell us indeed that some have maintain'd it in their public Acts to be but a <hi>venial sin</hi> in some cases:<note place="margin">Pag. 51.</note> But if you understood our Max<g ref="char:EOLhyphen"/>im, that <hi>no evil is to be done that good may come of it,</hi> and that if a Venial Sin would save a Nation, nay the World it self, from be<g ref="char:EOLhyphen"/>ing destroyed, it is so far from being lawful to commit it, that we ought to perish rather than to do it; you would not have concluded from thence that such Casuists <hi>allow the defaming of an Adversary.</hi>
+            </p>
+            <p>But I positively denyed your Assertion, and you now prove it. In general,<note place="margin">2 Def. p. 51.</note>
+               <hi>Sir,</hi> I grant, and that may be I hope without being obliged to deny every part of it, it was sufficient that the first part was absolutely false, <hi>viz.</hi> that <hi>some men do think that any thing may be done against an Heretic.</hi> This is indeed a Doctrin I have heard some <hi>Roman Catholics</hi> accused of; but, as I then said, I have always found the Calumny stand at the Accusers door. If other persons have held <hi>Lying</hi> and <hi>Calumny</hi> only a Venial Sin, their Position did not affect the Church, and it has been justly condemn'd (as you acknowledg) by the Supreme Pastor of it.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">Pag. 54.</note> your next progress is to shew that you have just cause to believe that I have proceeded according to these Principles, from four Heads: Of every one of which you are far more
+<pb n="9" facs="tcp:105960:5"/>guilty your self than I; and therefore you give me just reason to retort the Argument.</p>
+            <p>The <hi>first</hi> Head is, <hi>From the Accusations themselves,</hi>
+               <note place="margin">Page 54.</note> of which you give several Instances by way of Specimen, that is of <hi>Obliging Titles</hi> which you say I bestow upon you. But in this I assure you, <hi>Sir,</hi> you exceed me far; and, would I take the pains to sum up what you have industriously expressed in this kind only, in the three foregoing leaves of this your second Defence,<note place="margin">From pag. 49, to 54.</note> the World would see that you are more delighted with those <hi>strains of Rhe<g ref="char:EOLhyphen"/>toric</hi> than my self.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">Page. 56.</note> From laying hold on the <hi>lightest</hi> and most <hi>pitiful oc<g ref="char:EOLhyphen"/>casions</hi> to run out into the most <hi>grievous Accusations</hi> against you. But, <hi>Sir,</hi> will you call those <hi>pitiful light things,</hi> which you made so much use of, as to draw an Argument from them. I assure you, <hi>Sir,</hi> if you had not vary'd your Character in your <hi>We sup<g ref="char:EOLhyphen"/>pose,</hi> and formed an Argument from it of our want of proof, I should not have call'd it what you see you cannot now deny it was, a <hi>Falsification.</hi> And as for the other, if you know not how any thing can be <hi>offered</hi> in a true and proper Sacrifice, without being <hi>offered up to death,</hi> you should have argued so, and not have told us that the Bishop of <hi>Meaux</hi> observed <hi>that St.</hi> Paul <hi>con<g ref="char:EOLhyphen"/>cluded that Christ himself ought not to be any more offered,</hi> without putting in the following words, <hi>up to death for us.</hi>
+            </p>
+            <p>These are the only <hi>two</hi> you could pitch upon as <hi>light</hi> and <hi>trifling;</hi> and you conclude from thence that I have a <hi>Calumniating Spirit.</hi> But let any one be Judg betixt <hi>You</hi> and <hi>Me.</hi>
+               <note place="margin">Page 82.</note> You accuse the <hi>Trans<g ref="char:EOLhyphen"/>lator</hi> of the Bp's Letter (for this indeed was not my own) of above a dozen mistakes in that Translation, and have taken care to mark them in the Bishop's Letter; but any one will see that the sense has not at all been perverted in those places, nor any Ar<g ref="char:EOLhyphen"/>gument so much as pretended to be drawn from them; nay, the very first you have challeng'd me with, is <hi>your own mistake;</hi> for the words, <hi>Mais quand j' aurois adjoustè des Cartons a une Impres<g ref="char:EOLhyphen"/>sion deja faite,</hi> are not literally as your nor my Translation, but this; <hi>What if I had added some leaves to an Impression already fini<g ref="char:EOLhyphen"/>shed?</hi> And therefore, if your consequence against me be good, your Accusations were guided by such a Spirit as that which you so freely accuse me of.</p>
+            <p>
+               <hi>Thirdly,</hi>
+               <note place="margin">Page 59.</note> you say I bring such <hi>Allegations as I could never be sure were true;</hi> and this because I could not dive into your thoughts. I shall say nothing to this, but that if you would not give others
+<pb n="10" facs="tcp:105960:6"/>leave to judg of your intention by your outward Actions, you should not take the liberty your self, nor in your</p>
+            <p>
+               <hi>Furth Reason</hi> tell me that I accuse you of such things as <hi>I cer<g ref="char:EOLhyphen"/>tainly knew were false.</hi>
+               <note place="margin">Page 61.</note> It seems you have some <hi>Enthusiastic Spirit,</hi> or some <hi>Hypochondriac Lady,</hi> (a Mrs. <hi>James,</hi> perhaps) to deliver Oracles of this nature to you, tho' we have none.</p>
+            <p>For my own part, I declare in the presence of Almighty God, the searcher of hearts, and avenger of all wilful crimes, that I never accused you of any thing, but what I thought (nay have prov'd) you evidently guilty of;<note place="margin">See the Let<g ref="char:EOLhyphen"/>ter to the Author of the Dis<g ref="char:EOLhyphen"/>course con<g ref="char:EOLhyphen"/>cerning <hi>Ex<g ref="char:EOLhyphen"/>treme Un<g ref="char:EOLhyphen"/>ction.</hi>
+               </note> and I think I have now satisfied the world, that in the very instance you now bring you are what I affirm'd you to be, <hi>a Falsifier.</hi> And, were it not that I fear to increase your guilt, I would challenge you (if you dare speak truth) to deny positively that you were not satisfied to the con<g ref="char:EOLhyphen"/>trary in those very things upon which I had occasion to appeal to your Knowledg or your Conscience.</p>
+            <p>Your second part of this Section is taken up with a Refutati<g ref="char:EOLhyphen"/>on,<note place="margin">Pag. 66.</note> as you call it, of two points.</p>
+            <p n="1">1. Of those <hi>scandalous Reflections,</hi> which you say I have cast upon the generality of the Church of <hi>England.</hi>
+            </p>
+            <p n="2">2. Of those <hi>Imputations</hi> I have laid upon your self in particular.</p>
+            <p n="1">I. As to the <hi>first part,</hi> I refer you for the proof of whatever I have said, to a late Book called <hi>Good Advice to the Pulpits,</hi> which is alone enough to make your Party asham'd, if they have any sense of Honor or Conscience in them. And yet I might wish you to remember the Misrepresentations of our Doctrin, which have been thunder'd from the Pulpits into the Peoples ears, and in<g ref="char:EOLhyphen"/>serted into your Writings, ever since your pretended <hi>Reforma<g ref="char:EOLhyphen"/>tion;</hi> some of which (for it is impossible to give them all) have been noted by the <hi>Papist Misrepresented and Represented,</hi> the <hi>Acts of the General Assembly of the French Clergy,</hi> and others. And till we see your Party repent, and make some satisfaction, we shall have reason to accuse them of persisting in <hi>Calumnies, Misrepre<g ref="char:EOLhyphen"/>sentations, Falsifications, &amp;c.</hi> to serve a turn.</p>
+            <p>I might pass to the next, but that I find you call Dr. <hi>Heylin</hi>'s account of the <hi>bitter Revilings</hi> in Qu.<note place="margin">Pag. 76, 77, 78.</note>
+               <hi>Eliz.</hi> time to secure her Ti<g ref="char:EOLhyphen"/>tle, and <hi>Arohbishop Land's Moderation</hi> in hindring such things from being Re-printed, <hi>a very dangerous story;</hi> and my charitable Ad<g ref="char:EOLhyphen"/>monitions that <hi>you would not upon any politis design keep our bleeding Divisions open, to the ruin both of Church and State,</hi> as <hi>dangerous insi<g ref="char:EOLhyphen"/>nuations:</hi> whereas I see to such danger in them, unless you esteem
+<pb n="11" facs="tcp:105960:6"/>it a <hi>dangerous insinuation</hi> to shew that your Party have upon all occasions clapt a deform'd Vizard upon us, which when once detected, will certainly redound to your own Confusion. You may make them seem dangerious, by aisrepresenting them, and drawing ill consequences from your own Misrepresentations. I suppose no one will deny, but that these brangles about Religion, many of which might be ended, if some hot-headed Spirits did not augment them, are no great benefit either to Church or State; and this was the plain English of my expressions, and all that can be rationally deduced from my words. But a Cavilling and Ca<g ref="char:EOLhyphen"/>lumniating Spirit can draw ill consequences out of any thing.</p>
+            <p n="2">II. And now, <hi>Sir,</hi> I come to those <hi>Imputations</hi> which you say I have unjustly laid upon you. But how have you clear'd your self?</p>
+            <p>As to, <hi>first,</hi> the <hi>hard names</hi> I gave you, and <hi>secondly,</hi>
+               <note place="margin">Page 78.</note> the <hi>wilful faults</hi> I laid to your charge, I have already answer'd you.</p>
+            <p n="3">3. If refleted upon your <hi>Preaching,</hi> it was from meer report; for I assure you, <hi>Sir,</hi> what you were told of my being sometimes a part of your <hi>Auditory,</hi> is like many other stories which you a<g ref="char:EOLhyphen"/>bound with in all your Writings I suppose too from hear-say: Of this nature is your other also of my <hi>critical Sunday-night-Con<g ref="char:EOLhyphen"/>ferences, where your Sermons have been sometimes (if you be rightly in<g ref="char:EOLhyphen"/>form'd) put upon the Rack by me.</hi> But, <hi>Sir,</hi> if you had never told your Auditors from the Pulpit, that we give <hi>Divine Worship to Saints,</hi> I suppose you would have denied the Charge. And if your Conscience tell you that you did, ask that Conscience, Whether <hi>We,</hi> who acknowledg only <hi>One God</hi> whom we must adore, can be guilty of such a horrid Crime?</p>
+            <p>As for calling your Auditory <hi>Learned,</hi> I suppose, tho' some of them might truly deserve that Character, yet they did not all; And we know that it is these later sort that take all things as Truths which flow from an Eloquent Preacher's mouth.</p>
+            <p n="4">4. You promise great matters in answer to those <hi>Calumnies,</hi>
+               <note place="margin">Page 82.</note>
+               <hi>Falsifications, &amp;c.</hi> which I have justly charg'd you with; but if you have no better success in the following part of this <hi>Defence,</hi> than you have had in this first, you had better give the Cause up, which you shew cannot be justly managed.</p>
+            <p n="5">5. The <hi>ill language</hi> I charged you with, you cannot deny; nay,<note place="margin">Page 83.</note> which is worse, you justifie it, and that in the worst sense too.</p>
+            <p>How you have treated the B. of <hi>Meaux,</hi> appears plain enough by your believing every <hi>idle Report</hi> rather than <hi>his Vindications,</hi> and if the term <hi>Raillery,</hi> which I made use of, was too soft for
+<pb n="12" facs="tcp:105960:7"/>your expressions, call them <hi>Railings</hi> if you please; your calling St.<note place="margin">Pag. 51.</note>
+               <hi>Thomas</hi> of <hi>Aquin</hi>'s Opinions, or his proofs of them, <hi>Reveries,</hi> in the worst sense, that is, downright <hi>Ravings;</hi> St <hi>Germain</hi>'s, St. <hi>Anselm</hi>'s, the Abbot of <hi>Celles,</hi> St. <hi>Antonine,</hi> St. <hi>Bernardine,</hi> nay even the devout St. <hi>Bernard</hi>'s Expressions, <hi>horrid Blasphemies;</hi> and your vindicating the Charge when you have done, and yet pretending that <hi>no one is so scrupulously careful to avoid ill language as your self,</hi> shews indeed such a new kind of scrupulous Consci<g ref="char:EOLhyphen"/>ence, as I have seldom met with.</p>
+            <p>Had you only said that Fa. <hi>Crasset</hi> had collected such passages from those great Saints, as, if taken in that strict and dogmatical sense he brought them for, might be called <hi>Blasphemies;</hi> that Fa<g ref="char:EOLhyphen"/>ther must only have answered for them: but to lay them to these holy Saints charges,<note place="margin">Page 89.</note> to call them <hi>Superstitious men,</hi> their Expres<g ref="char:EOLhyphen"/>sions <hi>vain</hi> and <hi>extravagant,</hi> nay horrid Blasphemies, and such as proceeded from an <hi>indiscreet Zeal, &amp;c.</hi> is what truly-pious ears cannot hear without indignation.</p>
+            <p>
+               <hi>Lastly,</hi> as to your calling the pious and significant Ceremonies of the Church <hi>Magical Incantations;</hi>
+               <note place="margin">Page 85.</note> had I not intimated to you that you your selves use such-like Prayers and Ceremonies in the Consecration of <hi>Stocks</hi> and <hi>Stones</hi> too,<note place="margin">See the Form of consecra<g ref="char:EOLhyphen"/>ting a Ch. or Chappel, <hi>Sparrow's Can. p. 375.</hi>
+               </note>
+               <hi>in the Name of the Father, Son, and Holy Ghost;</hi> Churches I mean, and Chappels: you had been more excusable, and your reflection that you did not speak against the Catholic Church would have had more force. But seeing you your selves are accus'd for setting Persons and Places a part for the Ser<g ref="char:EOLhyphen"/>vice of your Maker by Prayer and Ceremony, and that you think the charge unjust; why is it not also an unjust charge against us, to call our setting <hi>things</hi> apart by the like Ceremonies, a <hi>Magical Incantation?</hi>
+            </p>
+            <p>Your third Section is taken up in giving us a catalogue of Books <hi>unanswe<g ref="char:EOLhyphen"/>red:</hi> but you should first have told us whether they were worth answering in particular or no, when all that is said in them is obviated in many Treatises. There are several likewise of <hi>Ours</hi> which remain <hi>unanswered;</hi> the <hi>Guide in Controversie</hi> especially, which for any thing I see must remain so, unless some such bold attempter attack <hi>them</hi> as has attack'd the <hi>other Discourses</hi> of the <hi>same Author</hi> lately published at <hi>Oxford,</hi> with the like misfortune.</p>
+            <p>And now, <hi>Sir,</hi> having passed thro' this your pretended <hi>Defence,</hi> I think I have great reason to give you thanks for it, seeing you have been so far from <hi>invalidating</hi> any thing I have said, that you have <hi>justified</hi> my <hi>Accusations.</hi> I should not have thought it <hi>convenient,</hi> much less <hi>necessary,</hi> to make these Refle<g ref="char:EOLhyphen"/>ctions, but that seeing you are pleased to promise <hi>an Answer to the arguing part of my Reply,</hi> I would willingly have it done in such a manner, that if you have any <hi>Reason</hi> for your <hi>Separation,</hi> we might not be put off with <hi>Trifles.</hi> Pray therefore, good <hi>Sir,</hi> make not so much hast in your next, but weight your Arguments well, if you have any; and let us not have <hi>Scolding</hi> instead of <hi>Ar<g ref="char:EOLhyphen"/>guing,</hi> nor <hi>Flourishes</hi> and <hi>Wit</hi> instead of <hi>Reason.</hi> I am,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your humble Servant.</signed>
+               <date>
+                  <hi>Dec.</hi> 6. 1687.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Most Excellent Ma<g ref="char:EOLhyphen"/>jesty for His Houshold and Chappel; And are to be sold at his Printing-house on the Ditch-side in <hi>Black-Fryers.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
